@@ -1,0 +1,13 @@
+{
+    "format_version": "1.2.0",
+    "meta": {
+        "uuid": "a1b2c3d4-1111-4222-8333-944455556666",
+        "namespace": "aquaclient",
+        "name": "AquaClient",
+        "version": "1.0.0",
+        "author": "you",
+        "platforms": {
+            "win-client": {}
+        }
+    }
+}
